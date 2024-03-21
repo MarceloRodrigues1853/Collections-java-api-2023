@@ -1,6 +1,6 @@
 # SET
 
-![img.png](img.png)
+![img](https://github.com/cami-la/collections-java-api-2023/raw/master/assets/image/set-interface-hierarchy.png)
 
 [Hierarchy of Collection Framework in Java](https://data-flair.training/blogs/collection-framework-in-java/)
 
