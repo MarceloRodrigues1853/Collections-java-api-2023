@@ -44,7 +44,7 @@ public class Box<T> {
 - Essa mesma técnica pode ser aplicada para criar **interfaces genérica**.
 
 
-- Os **nomes** de parâmetros de tipo mais comumente usados são:
+- Os **nomes** de **parâmetros de tipo** mais comumente usados são:
 
   * **E** - Elemento (usado extensivamente pelo Java Collections Framework)
 
